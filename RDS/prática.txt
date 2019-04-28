@@ -1,3 +1,3 @@
-Criando uma instância MySQL com Amazon RDS
+-> Criando uma instância MySQL com Amazon RDS:
 
-(https://medium.com/@amaurybsouza/criando-uma-inst%C3%A2ncia-mysql-com-amazon-rds-4a2f6ab8c37c)
+Link: (https://medium.com/@amaurybsouza/criando-uma-inst%C3%A2ncia-mysql-com-amazon-rds-4a2f6ab8c37c)
