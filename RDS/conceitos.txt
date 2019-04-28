@@ -1,0 +1,21 @@
+---> Conceitos do RDS:
+
+- É um serviço de banco de dados (database as a service), totalmente gerenciado pela AWS.
+- Permite escolher o tipo de instância.
+- Possui baixo custo de operação.
+- Muito seguro e automatiza tarefas demoradas de administração.
+- A AWS tem uma ferramenta que ajuda na migração do banco de dados existente para o RDS (AWS Database migration service)
+- Suporte a replicação e multi-AZ, alta disponibilidade e confiabilidade, seguro, rodando dentro da sua VPC, 
+com controle de acesso via Security Groups
+
+
+---> Mecanismos de banco de dados do Amazon RDS:
+
+- Amazon Autora
+- PostgreSQL
+- MySQL
+- MariaDB
+- ORACLE
+- SQL Server
+
+
