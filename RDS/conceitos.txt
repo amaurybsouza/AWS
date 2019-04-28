@@ -18,4 +18,11 @@ com controle de acesso via Security Groups
 - ORACLE
 - SQL Server
 
+--- > Melhores práticas para o RDS:
+
+- Use instâncias do tipo EBS-optimized
+- Use PIOPS para workloads de produção
+- Use Multi-AZ para alta disponibilidade
+- Escolha cuidadosamente o tipo de instância 
+- Use Read-Replicas para: escalar leitura, cross-region replication, opção adicional para recuperação de falhas.
 
