@@ -1,0 +1,27 @@
+---> Alguns conceitos que são importantes de saber:
+
+-> Regiões (Regions):
+ 
+- Regiões são as localidades fisicas onde a AWS está disponível ao redor do mundo.
+- Nos Estados Unidos por exemplo a AWS tem 6 regiões (onde possui datacenter para suportar
+clientes naquela região).
+
+-> Zonas de Disponibilidade (Availability Zones) - AZ
+
+- é a quantidade de datacenter que a aws tem cada uma das regiões para prover serviços e produtos.
+- cada região tem pelo menos 2 conjuntos de datacenters.
+- Alta disponibilidade, desempenho,  tolerância a falhas, disaster recovery.
+- no minimo 2 zonas de disponibilidade por região.
+- os recursos podem ser replicados de uma zona para outra caso ocorra um problema.
+
+-> Localidades de Borda (Edge Locations):
+
+- ponto de entrega de conteudo da aws.
+- é uma localidade em algum lugar do mundo onde existe um serviço de CDN funcionando.
+- CloudFront é o recurso da aws que entrega o CDN.
+
+-> Hoje a AWS tem:
+
+- 18 regiões.
+- 55 zonas de disponibilidade
+- desenas de edge locations
