@@ -11,7 +11,7 @@ com controle de acesso via Security Groups
 
 ---> Mecanismos de banco de dados do Amazon RDS:
 
-- Amazon Autora
+- Amazon Aurora
 - PostgreSQL
 - MySQL
 - MariaDB
