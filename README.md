@@ -4,12 +4,15 @@
 
 ## Computação
 
-          Nome           |   Descrição
--------------------------|------------------------------
-Amazon EC2               |
-AWS Lambda               |
-AWS Elastic Beanstalk    |
+Produtos AWS | Descrição
+---------    | ------------
+Amazon EC2   | Web Service 
+AWS Lambda   | Execute código sem se preocupar com servidores
+AWS Elastic Beanstalk  | Execute e gerencie aplicativos web
+Amazon Lightsail | Execute e gerencie servidores privados virtuais
 
+
+                
 
 
 
