@@ -1,11 +1,18 @@
 # AWS
-## Repositório criado com o objetivo de ajudar os iniciantes em cloud AWS e descrever os principais recursos utilizados.
 
-Nome       |  Descrição
------------|-----------
-Amazon EC2 |
-           |
-           |
+## Guias dos recursos mais usados da cloud AWS
+
+## Computação
+
+          Nome           |   Descrição
+-------------------------|------------------------------
+Amazon EC2               |
+AWS Lambda               |
+AWS Elastic Beanstalk    |
+
+
+
+
 
 
 
