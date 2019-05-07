@@ -1,7 +1,7 @@
 # AWS
 ## Repositório criado com o objetivo de ajudar os iniciantes em cloud AWS e descrever os principais recursos utilizados.
 
-Nome         Descrição
+Nome       |  Descrição
 -----------|-----------
 Amazon EC2 |
            |
