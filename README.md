@@ -1,6 +1,6 @@
 # AWS
 
-## Guias dos recursos mais usados da cloud AWS
+## Guia dos recursos mais usados da cloud AWS
 
 ## Computação
 
