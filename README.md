@@ -2,7 +2,7 @@
 
 ## Guia dos recursos mais usados da cloud AWS
 
-## Computação
+### Computação
 
 Produtos AWS | Descrição
 ---------    | ------------
@@ -12,7 +12,7 @@ AWS Elastic Beanstalk  | Execute e gerencie aplicativos web
 Amazon Lightsail | Execute e gerencie servidores privados virtuais
 
 
-## Banco de dados
+### Banco de dados
 
 Produtos AWS | Descrição
 ----------  | -------------
