@@ -19,7 +19,7 @@ Amazon Lightsail | Execute e gerencie servidores privados virtuais
 Produtos AWS | Descrição
 ----------  | -------------
 [Amazon RDS](https://github.com/amaurybsouza/AWS/blob/master/RDS/conceitos.txt) | Banco de dados Relacional
-[DynamoDB](texto aqui) | Banco de dados gerenciado
+[DynamoDB](https://github.com/amaurybsouza/AWS/blob/master/DynamoDB/conceitos.txt) | Banco de dados gerenciado
 
 
 
