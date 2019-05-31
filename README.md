@@ -20,5 +20,4 @@ Amazon Lightsail | Execute e gerencie servidores privados virtuais
 
 
 
-A parte prática usando os recursos da AWS você acessa aqui: [medium.com/@amaurybsouza](https://medium.com/@amaurybsouza)
 
